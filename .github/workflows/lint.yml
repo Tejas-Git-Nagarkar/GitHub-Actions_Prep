@@ -12,3 +12,6 @@ jobs:
     # this step will automaically clone the code of the current branch into the runner
       - name: Checkout/Clone the code
         uses: actions/checkout@v7
+    # This step will install Linting Tool
+      - name: Install Linter
+        run: pip insatll ruff
