@@ -1,4 +1,5 @@
-# This is code from LondheShubham repo, Flask app--Hello Dosto
+# This is code from LondheShubham repo
+# Hello dosto
 from flask import Flask, render_template
 app = Flask(__name__)
 
