@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v7
     # This step will install Linting Tool
       - name: Install Linter
-        run: pip insatll ruff
+        run: pip install ruff
