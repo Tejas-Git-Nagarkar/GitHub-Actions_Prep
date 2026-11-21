@@ -4,5 +4,5 @@
 
 ## 1. Workflows
 
-To Create a GitHub Actions workflow you need a folder called `./github/wrkflows`
+To Create a GitHub Actions workflow you need a folder called `./github/workflows`
 
